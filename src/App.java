@@ -6,5 +6,8 @@ public class App {
         int i=10;
         String s="Conflicto";
         String s2="He vuelto";
+        System.out.println("HOla");
+        System.out.println("Hola2");
+        System.out.println("Hola mundo");
     }
 }
